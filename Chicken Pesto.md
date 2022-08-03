@@ -9,6 +9,6 @@
 - Italian cheese
 - Olive oil
 
-## Instructions
+## Directions
 
 Trim and pound chicken into thin cutlets
