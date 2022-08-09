@@ -1,2 +1,1 @@
-# recipes
-recipes for food
+# recipes for food
