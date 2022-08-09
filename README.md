@@ -1,3 +1,3 @@
 # recipes for food
 
-[Chicken Pesto](../Chicken Pesto.md)
+[Chicken Pesto](../blob/master/Chicken Pesto.md)
